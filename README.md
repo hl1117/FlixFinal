@@ -125,7 +125,9 @@ Describe any challenges encountered while building the app.
     limitations under the License.
     
     
-    # Lab 3 - *Name of App Here*
+    
+    
+# Lab 3 - *Name of App Here*
 
 **Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -184,7 +186,7 @@ Describe any challenges encountered while building the app.
     limitations under the License.
     
     
-    # Lab 5 - *Name of App Here*
+# Lab 5 - *Name of App Here*
 
 **Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -194,10 +196,10 @@ Time spent: **X** hours spent in total
 
 The following **required** user stories are complete:
 
-- [ ] Create a movie model (+2pt)
-- [ ] Implement the movie model (+2pt)
-- [ ] Implement property observers (+2pt)
-- [ ] Create a basic API Client (+2pt)
+- [x] Create a movie model (+2pt)
+- [x] Implement the movie model (+2pt)
+- [x] Implement property observers (+2pt)
+- [x] Create a basic API Client (+2pt)
 
 The following **additional** user stories are implemented:
 
@@ -211,6 +213,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+https://imgur.com/3i5YUOn
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
